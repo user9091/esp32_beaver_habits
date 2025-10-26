@@ -19,7 +19,7 @@ This project displays habit tracking data from a self-hosted Beaver application 
 
 - [Arduino IDE](https://www.arduino.cc/en/software)
 - [ESP32 Board Support Package](https://docs.espressif.com/projects/arduino-esp32/en/latest/installing.html)
-- A running instance of the [Beaver](https://github.com/Cimsta/beaver) application.
+- A running instance of the [Beaver](https://github.com/daya0576/beaverhabits) application.
 - The following Arduino libraries:
   - `Adafruit GFX Library`
   - `Adafruit ST7789 Library`
