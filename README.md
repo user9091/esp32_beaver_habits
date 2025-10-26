@@ -30,7 +30,7 @@ This project displays habit tracking data from a self-hosted Beaver application 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/user9091/esp32_beaver_habits.git
    ```
 2. **Open in Arduino IDE:** Open the `esp32_beaver_habits/esp32.ino` file in the Arduino IDE.
 3. **Configure the settings:** In the `esp32.ino` file, update the following variables with your credentials:
